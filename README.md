@@ -17,9 +17,8 @@ It's designed to be called from within your own Python applications. It intellig
 Install the package directly from GitHub using `pip`:
 
 ```bash
-pip install git+https://github.com/your-username/cwd_to_md.git
+pip install git+https://github.com/broadfield-dev/cwd_to_md.git
 ```
-*(Remember to replace `your-username` with the actual GitHub username where this repository is hosted.)*
 
 ## Usage
 
